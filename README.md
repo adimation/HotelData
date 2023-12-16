@@ -1,4 +1,4 @@
-# Adimation
+# HotelData
 This is practice app used in the Asp.Net core web api tutorial version 7.0 
 
 # Steps to run project.
