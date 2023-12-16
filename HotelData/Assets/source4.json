@@ -1,0 +1,28 @@
+{
+    "SupplierId": "4",
+    "SupplierName": "Supplier 4",
+    "Hotels": [
+    {"Id": 31, "Name": "City Lights Shanghai Suites", "Address": {"City": "Shanghai", "Region":
+    "Shanghai", "Country": "China", "Latitude": 31.230390, "Longitude": 121.473702}},
+    {"Id": 32, "Name": "Vista Mirage Rome Hotel", "Address": {"City": "Rome", "Region": "Lazio",
+    "Country": "Italy", "Latitude": 41.902782, "Longitude": 12.496366}},
+    {"Id": 33, "Name": "Astral Oasis Resort Cape Town", "Address": {"City": "Cape Town",
+    "Region": "Western Cape", "Country": "South Africa", "Latitude": -33.924870, "Longitude":
+    18.424055}},
+    {"Id": 34, "Name": "Eternal Serenity Inn Moscow", "Address": {"City": "Moscow", "Region":
+    "Moscow", "Country": "Russia", "Latitude": 55.755825, "Longitude": 37.617634}},
+    {"Id": 35, "Name": "Emerald Shores Toronto Hotel", "Address": {"City": "Toronto", "Region":
+    "Ontario", "Country": "Canada", "Latitude": 43.653225, "Longitude": -79.383186}},
+    {"Id": 36, "Name": "Grand Dynasty Singapore Suites", "Address": {"City": "Singapore",
+    "Region": "Central Region", "Country": "Singapore", "Latitude": 1.352083, "Longitude":
+    103.819839}},
+    {"Id": 37, "Name": "Regent Riverside Istanbul Inn", "Address": {"City": "Istanbul", "Region":
+    "Marmara", "Country": "Turkey", "Latitude": 41.008238, "Longitude": 28.978359}},
+    {"Id": 38, "Name": "Pacific Oasis Sydney Resort", "Address": {"City": "Sydney", "Region":
+    "New South Wales", "Country": "Australia", "Latitude": -33.869820, "Longitude": 151.208296}},
+    {"Id": 39, "Name": "Grand Horizon San Diego Hotel", "Address": {"City": "San Diego",
+    "Region": "CA", "Country": "USA", "Latitude": 32.715736, "Longitude": -117.161087}},
+    {"Id": 40, "Name": "Crystal Heights Mumbai Inn", "Address": {"City": "Mumbai", "Region":
+    "Maharashtra", "Country": "India", "Latitude": 19.076090, "Longitude": 72.877426}}
+    ]
+}

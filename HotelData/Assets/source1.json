@@ -1,0 +1,24 @@
+{
+    "SupplierId": "1",
+    "SupplierName": "Supplier 1",
+    "Hotels": [
+    {"Id": 1, "Name": "Grand Hotel Downtown", "Address": {"City": "New York", "Region": "NY",
+    "Country": "USA", "Latitude": 40.748817, "Longitude": -73.985428}},
+    {"Id": 2, "Name": "Central Plaza Suites", "Address": {"City": "Los Angeles", "Region": "CA",
+    "Country": "USA", "Latitude": 34.052235, "Longitude": -118.243683}},
+    {"Id": 3, "Name": "Elegant Residency", "Address": {"City": "Paris", "Region": "Île-de-France",
+    "Country": "France", "Latitude": 48.856613, "Longitude": 2.352222}},
+    {"Id": 4, "Name": "Regal Tower Hotel", "Address": {"City": "London", "Region": "England",
+    "Country": "UK", "Latitude": 51.509865, "Longitude": -0.118092}},
+    {"Id": 5, "Name": "Royal Garden Hotel", "Address": {"City": "Miami", "Region": "FL", "Country":
+    "USA", "Latitude": 25.761681, "Longitude": -80.191788}},
+    {"Id": 6, "Name": "Luxury Plaza Hotel", "Address": {"City": "Denver", "Region": "CO",
+    "Country": "USA", "Latitude": 39.739235, "Longitude": -104.990250}},
+    {"Id": 7, "Name": "Grand View Resort", "Address": {"City": "Vancouver", "Region": "British Columbia", "Country": "Canada", "Latitude": 49.282730, "Longitude": -123.120735}},
+    {"Id": 8, "Name": "Elegance Suites", "Address": {"City": "San Francisco", "Region": "CA",
+    "Country": "USA", "Latitude": 37.774929, "Longitude": -122.419416}},
+    {"Id": 9, "Name": "Royal Tower Inn", "Address": {"City": "Las Vegas", "Region": "NV",
+    "Country": "USA", "Latitude": 36.169941, "Longitude": -115.139830}},
+    {"Id": 10, "Name": "Cityscape Hotel", "Address": {"City": "Sydney", "Region": "New South Wales", "Country": "Australia", "Latitude": -33.868820, "Longitude": 151.209296}}
+    ]
+}

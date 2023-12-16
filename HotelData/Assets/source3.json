@@ -1,0 +1,27 @@
+{
+    "SupplierId": "3",
+    "SupplierName": "Supplier 3",
+    "Hotels": [
+    {"Id": 21, "Name": "Harmony Suites Tokyo", "Address": {"City": "Tokyo", "Region": "Kanto",
+    "Country": "Japan", "Latitude": 35.689487, "Longitude": 139.691711}},
+    {"Id": 22, "Name": "Sunrise Grand Hotel Barcelona", "Address": {"City": "Barcelona", "Region":
+    "Catalonia", "Country": "Spain", "Latitude": 41.385063, "Longitude": 2.173404}},
+    {"Id": 23, "Name": "Tranquil Resort Dubai", "Address": {"City": "Dubai", "Region": "Dubai",
+    "Country": "UAE", "Latitude": 25.276987, "Longitude": 55.296249}},
+    {"Id": 24, "Name": "Pinnacle Tower Suites Berlin", "Address": {"City": "Berlin", "Region":
+    "Berlin", "Country": "Germany", "Latitude": 52.520008, "Longitude": 13.404954}},
+    {"Id": 25, "Name": "Sapphire Gardens Hotel Rio", "Address": {"City": "Rio de Janeiro",
+    "Region": "State of Rio de Janeiro", "Country": "Brazil", "Latitude": -22.908333, "Longitude":
+    -43.196388}},
+    {"Id": 26, "Name": "Majestic Sky Seoul", "Address": {"City": "Seoul", "Region": "Seoul",
+    "Country": "South Korea", "Latitude": 37.566536, "Longitude": 126.977966}},
+    {"Id": 27, "Name": "Golden Sands Resort Cancun", "Address": {"City": "Cancun", "Region":
+    "Quintana Roo", "Country": "Mexico", "Latitude": 21.161908, "Longitude": -86.851528}},
+    {"Id": 28, "Name": "Cerulean Horizon Inn Amsterdam", "Address": {"City": "Amsterdam",
+    "Region": "North Holland", "Country": "Netherlands", "Latitude": 52.367573, "Longitude":
+    4.904138}},
+    {"Id": 29, "Name": "Aurora Vista Hotel Bangkok", "Address": {"City": "Bangkok", "Region":
+    "Bangkok", "Country": "Thailand", "Latitude": 13.756331, "Longitude": 100.501762}},
+    {"Id": 30, "Name": "Royal Crescent Edinburgh", "Address": {"City": "Edinburgh", "Region": "Scotland", "Country": "UK", "Latitude": 55.953251, "Longitude": -3.188267}}
+    ]
+}
